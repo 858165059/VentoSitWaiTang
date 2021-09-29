@@ -1,2 +1,1 @@
-# VentoSitWaiTang
-My personal repository.
+#Stay humble, Stay foolish.
